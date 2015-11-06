@@ -1,0 +1,27 @@
+{
+  "name": "react-i13n-sp",
+  "version": "1.0.0",
+  "description": "React plugin for snowplow tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anashashim/react-i13n-sp"
+  },
+  "keywords": [
+    "react-i13n",
+    "snowplow-react"
+  ],
+  "author": "Anas Hashim <anasphashim@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anashashim/react-i13n-sp/issues"
+  },
+  "homepage": "https://github.com/anashashim/react-i13n-sp",
+  "devDependencies": {
+    "chai": "^3.4.0",
+    "mocha": "^2.3.3"
+  }
+}
